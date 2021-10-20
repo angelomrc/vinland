@@ -1,0 +1,25 @@
+@media screen and (max-width: 1024px){
+  
+    .navegacao{
+        margin-top: 1%;
+        display: flex;
+        flex-direction: column;
+
+    }
+ 
+    .sessaoclass{
+   
+        flex-wrap: nowrap;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+
+.navitem:hover{
+    background-color: rgb(73, 211, 230);
+}
+
+
